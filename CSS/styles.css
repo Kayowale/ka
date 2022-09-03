@@ -1,0 +1,17 @@
+body {
+    background-color: red;
+}
+h1 {
+    color: blueviolet;
+}
+h3 {
+    color: burlywood;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: blue;
+    border-width: 5px;
+    width: 5%;
+
+}
